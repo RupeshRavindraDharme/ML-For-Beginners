@@ -11,4 +11,4 @@ There are a lot of parameters that are set by default when working with these cl
 |          | A notebook is presented with a classifier fully built up and its parameters tweaked and changes explained in textboxes | A notebook is partially presented or poorly explained | A notebook is buggy or flawed |
 
 ## My Assignment
-Assignment.ipynb(assignment.ipynb)
+[Assignment.ipynb](assignment.ipynb)
